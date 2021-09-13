@@ -17,7 +17,7 @@ main(List<String> arguments){
       break;
 
     default:
-      print('Age is just a number, enjoy as long as you are alive');
+      print('Age is just a number, enjoy and work hard as long as you are alive');
       break;   
 
   }
