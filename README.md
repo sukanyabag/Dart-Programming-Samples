@@ -1,2 +1,2 @@
 # Dart-Practice-Sets
-Repo contains dart practice snippets.
+Repo contains Dart code samples useful while learning Dart.
